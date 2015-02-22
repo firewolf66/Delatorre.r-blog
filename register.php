@@ -1,4 +1,4 @@
-REGISTER.PHP:
+
 <link rel="shortcut icon" href="http://studionumberone.com/images/2011/09/NIKE-SOCCER-520x394.jpg">
 <title>Ramon-Blog</title>
 

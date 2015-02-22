@@ -1,3 +1,4 @@
+
 <?php
 require_once(__DIR__ . "/../model/config.php");
 require_once (__DIR__ . "/../controller/login-verify.php");
@@ -7,8 +8,9 @@ if (!authenticateUser()) {
     die();
 }
 ?>
+
 <nav>
-
-    <li>< href="<?php echo $path . "post.php" ?>">Blog Post Form</a></li>
-
+    <ul class="nav nav-pills">
+        <li><a type="button" class="btn btn-default navbar-btn" href="<?php echo $path . "post.php" ?>">Blog Post Form</a></li>
+    </ul>
 </nav>

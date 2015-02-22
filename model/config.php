@@ -5,7 +5,7 @@ session_start();
 
 session_regenerate_id(true);
 
-$path = "/(PUT THE NAME OF YOUR PROJECT HERE)/";
+$path = "/Delatorre.r-blog/";
 
 $host = "localhost";
 

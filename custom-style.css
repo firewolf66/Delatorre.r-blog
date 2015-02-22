@@ -1,0 +1,18 @@
+body{
+    background-color: cadetblue;
+    
+}
+.jumbotron{
+    background-image: url('http://srv-live-02.lazada.com.ph/cms/spinbasket/brands-banner/06192014/Lazada-Brand-Banner-NIKE_957x300.jpg');
+    margin-top: 25px;
+}
+.jumbotron h1{
+    color: cadetblue;
+}
+.nav nav-tabs {
+    margin-top: 15px;
+}
+.jumbotron p{
+    color:black;
+}
+ 

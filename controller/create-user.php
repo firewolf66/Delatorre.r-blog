@@ -19,7 +19,7 @@ $query = $_SESSION["connection"]->query("INSERT INTO users SET "
         . "password = '$hashedPassword',"
         . "salt = '$salt'");
 if ($query) {
-    header("Location: " . $path . "index.php");
+    header("Location: " . $path . "login.php");
 } else {
     die();
 }
