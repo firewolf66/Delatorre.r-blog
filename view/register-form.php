@@ -5,11 +5,11 @@
 <?php
 require_once(__DIR__ . "/../model/config.php");
 ?>
-   <ul class="nav nav-tabs">
-        <li role="presentation" ><a href="index.php">Home</a></li>
-        <li role="presentation" ><a href="login.php">Login</a></li>
-        <li role="presentation" class="active"><a href="register.php">Register</a></li>     
-    </ul>
+<ul class="nav nav-tabs">
+    <li role="presentation" ><a href="index.php">Home</a></li>
+    <li role="presentation" ><a href="login.php">Login</a></li>
+    <li role="presentation" class="active"><a href="register.php">Register</a></li>     
+</ul>
 
 <h1>Register</h1>
 

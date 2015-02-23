@@ -1,9 +1,9 @@
 body{
     background-color: cadetblue;
-    
+
 }
 .jumbotron{
-    background-image: url('http://srv-live-02.lazada.com.ph/cms/spinbasket/brands-banner/06192014/Lazada-Brand-Banner-NIKE_957x300.jpg');
+    background-image: url('<link rel="shortcut icon" href="http://4.kicksonfire.net/wp-content/uploads/2014/09/Nike-Britain.jpg">');
     margin-top: 25px;
 }
 .jumbotron h1{
@@ -15,4 +15,3 @@ body{
 .jumbotron p{
     color:black;
 }
- 
