@@ -1,10 +1,4 @@
-<link rel="shortcut icon" href="http://4.kicksonfire.net/wp-content/uploads/2014/09/Nike-Britain.jpg">
-
-
-<link type="text/css" rel="stylesheet href" href="css/bootstrap-theme.css">
-<!-- these are the regular links to things like bootstrap and css pages -->
-<link type="text/css" rel="stylesheet" href="css/bootstrap.css">
-<link type="text/css" rel="stylesheet" href="custom-style.css">
+<link rel="shortcut icon" href="https://lh5.ggpht.com/wanKXi4CYO2my9zCOr5R4Jq_9UCLInMpfzFsQIKaw21MP8Fhlc-MT8_liPyS9dK9XWJS=w170">
 
 <ul class="nav nav-tabs">
     <li role="presentation" class="active"><a href="index.php">Home</a></li>
