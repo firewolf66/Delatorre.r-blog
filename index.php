@@ -1,5 +1,7 @@
+<!-- This makes a drawing show up in the top of the tab.-->
 <link rel="shortcut icon" href="https://lh5.ggpht.com/wanKXi4CYO2my9zCOr5R4Jq_9UCLInMpfzFsQIKaw21MP8Fhlc-MT8_liPyS9dK9XWJS=w170">
 
+<!-- This makes the links show up in the nav bar on the top of the blog.-->
 <ul class="nav nav-tabs">
     <li role="presentation" class="active"><a href="index.php">Home</a></li>
     <li role="presentation" ><a href="login.php">Login</a></li>
@@ -7,11 +9,11 @@
     <li role="presentation" ><a href="controller/logout-user.php">Logout</a></li>
 </ul>
 
-
+<!-- This contains the jumbotron.-->
 <div class="container"><!-- the container class is to make the jumbotron a different shape -->
     <div class="jumbotron">
-
-        <h1>Haterz make me famouz</h1>
+        <!-- This makes a text show up on the jumbotron.-->
+        <h1>"Haterz Make Me Famouz"</h1>
 
         <p>......</p> <!-- these periods are to make the jumbotron bigger so that it will show the whole nike sign-->
 

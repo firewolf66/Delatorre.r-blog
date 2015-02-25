@@ -9,5 +9,6 @@ require_once (__DIR__ . "/../controller/login-verify.php");
 <!-- these are the regular links to things like bootstrap and css pages -->
 <link type="text/css" rel="stylesheet" href="css/bootstrap.css">
 <link type="text/css" rel="stylesheet" href="custom-style.css">
+
     </head>
     <body>
