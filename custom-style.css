@@ -1,23 +1,31 @@
 body{
-    //This makes the background have color in the back which in this case it is slateblue.
+    /*This makes the background have color in the back which in this case it is slateblue.*/
     background-color: slateblue;
     text-align: center;
 
 }
-//This makes a backgound image show up in the Jumbotron. And how far its suppose to be from the margin-top.
+/*This makes a backgound image show up in the Jumbotron. And how far its suppose to be from the margin-top.*/
 .jumbotron{
-    background-image: url(http://www.snazzyspace.com/wallpapers/000000_nike-shoes.png);
+    background-image: url(http://www.snazzyspace.com/wallpapers/000000_nike-collage.png);
     margin-top: 20px;
 }
-//This adds the jumbotron header 1 color.
+/*This adds the jumbotron header 1 color.*/
 .jumbotron h1{
     color: windowframe;
 }
-//This gives space between the nav tabs, which in this case its 20px.
+/*This gives space between the nav tabs, which in this case its 20px.*/
 .nav nav-tabs {
     margin-top: 20px;
 }
-//This gives the Jumbotron paragraph color, which in this case it is windowtext
+/*This gives the Jumbotron paragraph color, which in this case it is windowtext.*/
 .jumbotron p{
     color: windowtext;
+}
+
+nav {
+    padding-left:35%;
+}
+
+nav nav-tabs{
+    text-align: center;
 }

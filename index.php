@@ -1,5 +1,5 @@
 <!-- This makes a drawing show up in the top of the tab.-->
-<link rel="shortcut icon" href="https://lh5.ggpht.com/wanKXi4CYO2my9zCOr5R4Jq_9UCLInMpfzFsQIKaw21MP8Fhlc-MT8_liPyS9dK9XWJS=w170">
+<link rel="shortcut icon" href="https://lh5.ggpht.com/wanKXi4CYO2my9zCOr5R4Jq_9UCLInMpfzFsQIKaw21MP8Fhlc-MT8_liPyS9dK9XWJS=w300">
 
 <!-- This makes the links show up in the nav bar on the top of the blog.-->
 <ul class="nav nav-tabs">
